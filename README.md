@@ -71,6 +71,8 @@ I use Goyo.vim and Limelight.vim for distraction free writing. Use `:Goyo` to
 enter a distraction free writing mode. Paragraphs that aren't focused will be
 hidden, and spell checking will be enabled.
 
+<img width="1579" alt="image" src="https://user-images.githubusercontent.com/827851/65735924-2c5d8f00-e0a7-11e9-8a02-97451fea6dac.png">
+
 ## Remaps
 
 - normal mode:
